@@ -44,7 +44,8 @@ Observe que, ao criar o Map, foi necessário percorrer todos os dados de "Contas
 Conclusão, ao lidar com grandes volumes de dados usando javascript, considerar a estrutura de Map pode ser uma escolha inteligente para otimizar o desempenho de suas operações, como exemplificado neste post.
 
 
-Você encontra o código completo nesse reposiório:
+Você encontra o código completo nesse repositório:
+https://github.com/delucagabriel/ts_map_vs_array
 
 
 
